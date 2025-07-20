@@ -1067,11 +1067,11 @@ const data: Data = {
     {
       title: 'About Us',
       slug: 'about-us',
-      content: `Welcome to [Your Store Name], your trusted destination for quality products and exceptional service. Our journey began with a mission to bring you the best shopping experience by offering a wide range of products at competitive prices, all in one convenient platform.
+      content: `Welcome to , your trusted destination for quality products and exceptional service. Our journey began with a mission to bring you the best shopping experience by offering a wide range of products at competitive prices, all in one convenient platform.
 
-At [Your Store Name], we prioritize customer satisfaction and innovation. Our team works tirelessly to curate a diverse selection of items, from everyday essentials to exclusive deals, ensuring there's something for everyone. We also strive to make your shopping experience seamless with fast shipping, secure payments, and excellent customer support.
+At Gulit Gebeya, we prioritize customer satisfaction and innovation. Our team works tirelessly to curate a diverse selection of items, from everyday essentials to exclusive deals, ensuring there's something for everyone. We also strive to make your shopping experience seamless with fast shipping, secure payments, and excellent customer support.
 
-As we continue to grow, our commitment to quality and service remains unwavering. Thank you for choosing [Your Store Name]—we look forward to being a part of your journey and delivering value every step of the way.`,
+As we continue to grow, our commitment to quality and service remains unwavering. Thank you for choosing Gulit Gebeya—we look forward to being a part of your journey and delivering value every step of the way.`,
       isPublished: true,
     },
     {
@@ -1081,14 +1081,14 @@ As we continue to grow, our commitment to quality and service remains unwavering
 
 **Customer Support**
 For inquiries about orders, products, or account-related issues, contact our customer support team:
-- **Email:** support@example.com
-- **Phone:** +1 (123) 456-7890
+- **Email:** gulitsupport@example.com
+- **Phone:** +251928449810
 - **Live Chat:** Available on our website from 9 AM to 6 PM (Monday to Friday).
 
 **Head Office**
 For corporate or business-related inquiries, reach out to our headquarters:
-- **Address:** 1234 E-Commerce St, Suite 567, Business City, BC 12345
-- **Phone:** +1 (987) 654-3210
+- **Address:** Africa Avenue, Suite 567, Bole District, Addis Ababa 1000
+- **Phone:** +251928449810
 
 We look forward to assisting you! Your satisfaction is our priority.
 `,
@@ -1122,7 +1122,7 @@ Your data is safeguarded through robust security measures to prevent unauthorize
     {
       title: 'Conditions of Use',
       slug: 'conditions-of-use',
-      content: `Welcome to [Ecommerce Website Name]. By accessing or using our website, you agree to comply with and be bound by the following terms and conditions. These terms govern your use of our platform, including browsing, purchasing products, and interacting with any content or services provided. You must be at least 18 years old or have the consent of a parent or guardian to use this website. Any breach of these terms may result in the termination of your access to our platform.
+      content: `Welcome to Gulit Gebeya. By accessing or using our website, you agree to comply with and be bound by the following terms and conditions. These terms govern your use of our platform, including browsing, purchasing products, and interacting with any content or services provided. You must be at least 18 years old or have the consent of a parent or guardian to use this website. Any breach of these terms may result in the termination of your access to our platform.
 
 We strive to ensure all product descriptions, pricing, and availability information on our website are accurate. However, errors may occur, and we reserve the right to correct them without prior notice. All purchases are subject to our return and refund policy. By using our site, you acknowledge that your personal information will be processed according to our privacy policy, ensuring your data is handled securely and responsibly. Please review these terms carefully before proceeding with any transactions.
 `,
@@ -1131,11 +1131,11 @@ We strive to ensure all product descriptions, pricing, and availability informat
     {
       title: 'Customer Service',
       slug: 'customer-service',
-      content: `At [Your Store Name], our customer service team is here to ensure you have the best shopping experience. Whether you need assistance with orders, product details, or returns, we are committed to providing prompt and helpful support.
+      content: `At Gulit Gebeya, our customer service team is here to ensure you have the best shopping experience. Whether you need assistance with orders, product details, or returns, we are committed to providing prompt and helpful support.
 
 If you have questions or concerns, please reach out to us through our multiple contact options:
-- **Email:** support@example.com
-- **Phone:** +1 (123) 456-7890
+- **Email:** gulitsupport@example.com
+- **Phone:** +251928449810
 - **Live Chat:** Available on our website for instant assistance
 
 We also provide helpful resources such as order tracking, product guides, and FAQs to assist you with common inquiries. Your satisfaction is our priority, and we’re here to resolve any issues quickly and efficiently. Thank you for choosing us!`,
@@ -1251,18 +1251,18 @@ We also provide helpful resources such as order tracking, product guides, and FA
         pageSize: 9,
       },
       site: {
-        name: 'NxtAmzn',
+        name: 'Gulit Gebeya',
         description:
-          'NxtAmzn is a sample Ecommerce website built with Next.js, Tailwind CSS, and MongoDB.',
+          'Gulit Gebeya is a sample Ecommerce website built with Next.js, Tailwind CSS, and MongoDB.',
         keywords: 'Next Ecommerce, Next.js, Tailwind CSS, MongoDB',
         url: 'https://next-mongo-ecommerce-final.vercel.app',
-        logo: '/icons/logo.svg',
+        logo: '/icons/logo.png',
         slogan: 'Spend less, enjoy more.',
-        author: 'Next Ecommerce',
-        copyright: '2000-2024, Next-Ecommerce.com, Inc. or its affiliates',
-        email: 'admin@example.com',
-        address: '123, Main Street, Anytown, CA, Zip 12345',
-        phone: '+1 (123) 456-7890',
+        author: 'Thomas',
+        copyright: '2000-2025, Gulit-Gebeya.com, Inc. or its affiliates',
+        email: 'gulitgebeya@gmail.com',
+        address: '123, Bole Road, Addis Ababa, Zip 12345',
+        phone: '+251928449810',
       },
       carousels: [
         {

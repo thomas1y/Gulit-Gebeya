@@ -14,7 +14,7 @@ export default async function Header() {
   const t = await getTranslations()
   return (
     <header className='bg-black  text-white'>
-      <div className='px-2'>
+      <div className='px-8'>
         <div className='flex items-center justify-between'>
           <div className='flex items-center'>
             <Link
