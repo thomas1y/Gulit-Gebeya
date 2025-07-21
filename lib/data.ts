@@ -1255,7 +1255,7 @@ We also provide helpful resources such as order tracking, product guides, and FA
         description:
           'Gulit Gebeya is a sample Ecommerce website built with Next.js, Tailwind CSS, and MongoDB.',
         keywords: 'Next Ecommerce, Next.js, Tailwind CSS, MongoDB',
-        url: 'https://next-mongo-ecommerce-final.vercel.app',
+        url: 'https://gulit-gebeya-eta.vercel.app',
         logo: '/icons/logo.png',
         slogan: 'Spend less, enjoy more.',
         author: 'Thomas',
