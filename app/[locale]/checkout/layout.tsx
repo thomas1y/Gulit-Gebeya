@@ -21,6 +21,7 @@ export default function CheckoutLayout({
               style={{
                 maxWidth: '100%',
                 height: 'auto',
+                paddingBottom: '3px',
               }}
             />
           </Link>
