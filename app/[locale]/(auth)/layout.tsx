@@ -16,8 +16,8 @@ export default async function AuthLayout({
           <Image
             src='/icons/logo.png'
             alt='logo'
-            width={64}
-            height={64}
+            width={45}
+            height={45}
             priority
             style={{
               maxWidth: '100%',
